@@ -5,9 +5,8 @@ namespace DnxDemo
     {
         public void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Brought to you by DNX and no Visual Studio...");
-            Console.Read();
+            Console.WriteLine("Hello World... with DNX and no Visual Studio!");
+            //Console.Read();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": "1.0.0-*",
-  "description": "Create and run a .NET 5 Core console application without Visual Studio using DNX",
+  "description": "Use DNX to create and run a .NET 5 Core console application without Visual Studio",
   "commands": {
-    "run": "DnxDemo"
+    "runme": "DnxDemo"
   },
   "frameworks": {
     "dnx451": { },
